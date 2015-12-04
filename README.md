@@ -1,2 +1,2 @@
 # private-server-
-was A  pesonal enviorment that I am creating but I am willing for it to be shared
+This  is A private server setup that I am gonna make so it can be used by many other people
